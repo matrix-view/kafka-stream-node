@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  DOCKER_REPOSITORY: eliasjunioroliveira/matrix-view-firebase-connector
+  DOCKER_REPOSITORY: eliasjunioroliveira/matrix-view-kafka-stream-node
 
 jobs:
   push_to_registry:
