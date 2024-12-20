@@ -1,2 +1,2 @@
-# kafka-stream-node
-Kafka Streams using node
+# firebase-connector
+Kafka producer based on firebase events
